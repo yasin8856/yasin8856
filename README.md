@@ -1,5 +1,4 @@
-[![MasterHead](https://algorithmman.com/wp-content/uploads/2024/04/programming-languages.png)
-
+[![MasterHead]([https://algorithmman.com/wp-content/uploads/2024/04/programming-languages.png](https://www.watelectronics.com/wp-content/uploads/different-programming-languages.png)
 <h1 align="center">Hi 👋, I'm Yasin Şen</h1>
 <h3 align="center">A computer engineering student from Turkey</h3>
 
